@@ -9,6 +9,6 @@
   "author": "Kirsty & Sophie",
   "license": "ISC",
   "dependencies": {
-    "jest": "^22.4.2"
+    "jest": "^22.4.4"
   }
 }
